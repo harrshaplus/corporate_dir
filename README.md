@@ -1,3 +1,4 @@
+![Screenshot 2025-05-18 125915](https://github.com/user-attachments/assets/54f25814-40a6-4d61-bb42-68eda8076e61)
 # Corporate Directory
 
 A modern web application for searching and managing corporate information, similar to corporatedir.com.
